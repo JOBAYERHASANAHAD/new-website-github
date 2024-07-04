@@ -2,7 +2,12 @@ div{
     color: antiquewhite;
     background-color: white aqua; font-size: large;
 } 
-
+nav{
+    text-align: right;
+    color: white;
+}
+details{ color: cyan; text-align:right;}
+.details{ color: aqua; text-decoration: lawngreen;}
 p{
     color: blue; font-size: larger;
 }
